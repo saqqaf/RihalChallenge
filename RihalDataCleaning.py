@@ -1,6 +1,6 @@
 
 
-#### First we OCR the image
+#### First we OCR the image to extract the text by using Tesseract module.
 
 import pytesseract
 from PIL import Image
